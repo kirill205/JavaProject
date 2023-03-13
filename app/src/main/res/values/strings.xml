@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="hello_btn">Hello btn</string>
+    <string name="search">Search...</string>
+</resources>
